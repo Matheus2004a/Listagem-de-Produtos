@@ -1,0 +1,8 @@
+C:\Users\Aurelio\documents\visual studio 2010\Projects\Listas de Produtos\Listas de Produtos\bin\Debug\Listas de Produtos.exe
+C:\Users\Aurelio\documents\visual studio 2010\Projects\Listas de Produtos\Listas de Produtos\bin\Debug\Listas de Produtos.pdb
+C:\Users\Aurelio\documents\visual studio 2010\Projects\Listas de Produtos\Listas de Produtos\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aurelio\documents\visual studio 2010\Projects\Listas de Produtos\Listas de Produtos\obj\x86\Debug\Listas de Produtos.csproj.GenerateResource.Cache
+C:\Users\Aurelio\documents\visual studio 2010\Projects\Listas de Produtos\Listas de Produtos\obj\x86\Debug\Listas de Produtos.exe
+C:\Users\Aurelio\documents\visual studio 2010\Projects\Listas de Produtos\Listas de Produtos\obj\x86\Debug\Listas de Produtos.pdb
+C:\Users\Aurelio\Documents\Visual Studio 2010\Projects\Listas de Produtos\Listas de Produtos\obj\x86\Debug\WindowsFormsApplication1.form_Listagem.resources
+C:\Users\Aurelio\Documents\Visual Studio 2010\Projects\Listas de Produtos\Listas de Produtos\obj\x86\Debug\Listas de Produtos.csprojResolveAssemblyReference.cache
