@@ -1,0 +1,3 @@
+# Sejam muito bem - vindos!
+
+Este é apenas um programa simples feito em C# para realizar adição e remoção do nome de quaisquer tipos de produtos desejados. Todas as adições do nome desses produtos são enviadas para o **componente ListBox do C#**. Ele contém certos tipos de **validações** como mensagens de alertas caso não haja um produtos adicionar, nenhum nome de um produtos, tentativas de remoção de um produto inexistente e etc.
